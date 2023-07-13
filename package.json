@@ -1,0 +1,13 @@
+{
+  "name": "get-linkedin-profiles",
+  "version": "1.0.0",
+  "description": "Scraper to get linkedin profiles",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
